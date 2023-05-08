@@ -1,0 +1,34 @@
+{
+    "ranges": [
+        {
+            "seccion": 1,
+            "score": 2
+        },
+        {
+            "seccion": 2,
+            "score": 2
+        },
+        {
+            "seccion": 3,
+            "score": 3
+        },
+        {
+            "seccion": 4,
+            "score": 2
+        },
+        {
+            "seccion": 5,
+            "score": 2
+        },
+        {
+            "seccion": 6,
+            "score": 0
+        },
+        {
+            "seccion": 7,
+            "score": 0
+        }
+    ],
+    "total": 6.5,
+    "username": "carlosgonzalez@edicmexico.onmicrosoft.com"
+}
